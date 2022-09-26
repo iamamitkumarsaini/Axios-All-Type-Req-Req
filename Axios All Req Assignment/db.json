@@ -1,0 +1,97 @@
+{
+  "todos": [
+    {
+      "title": "amit",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Prepare for evaluation",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Prepare well for DSA",
+      "status": true,
+      "id": 4
+    },
+    {
+      "title": "Learn English",
+      "status": true,
+      "id": 5
+    },
+    {
+      "title": "Learn React Reducer",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Learn Javascript Advance Classes",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "learn Backtracking",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "Learn About MAC Process",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "Learn About Skill Developments",
+      "status": false,
+      "id": 11
+    },
+    {
+      "title": "Solve DSA Assignements",
+      "status": false,
+      "id": 13
+    },
+    {
+      "title": "take Tommorow Lectures",
+      "status": false,
+      "id": 15
+    },
+    {
+      "title": "Add me",
+      "status": false,
+      "id": 16
+    },
+    {
+      "title": "learn Football",
+      "status": false,
+      "id": 17
+    },
+    {
+      "title": "Learn Chakra UI",
+      "status": true,
+      "id": 18
+    },
+    {
+      "title": "learn React ",
+      "status": true,
+      "id": 19
+    },
+    {
+      "title": "learn Routes",
+      "status": false,
+      "id": 20
+    },
+    {
+      "title": "learn All Routes",
+      "status": false,
+      "id": 21
+    },
+    {
+      "title": "Learn Vollyball",
+      "status": false,
+      "id": 22
+    },
+    {
+      "id": 23
+    }
+  ]
+}
