@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "title": "Learn Backtracking",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Learn DSA",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Learn React",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Study useEffect",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Practise useEffect",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "practise Recursion",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Prepare for evaluation",
+      "status": false,
+      "id": 7
+    }
+  ]
+}

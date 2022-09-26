@@ -1,0 +1,282 @@
+{
+    "data":[
+        {
+            "name": "OnePlus 10 Pro 5G",
+            "feature": "Emerald Forest, 8GB RAM, 128GB Storage",
+            "img": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/618hqM-yxtL._SX679_.jpg",
+            "price": 66999,
+            "Brand": "OnePlus",
+            "id":1,
+            "category": "Electronics"
+        },
+        {
+            "name": "OnePlus 10 Pro 5G",
+            "feature": "Volcanic Black, 12GB RAM, 256GB Storage",
+            "img": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61mIUCd-37L._SX679_.jpg",
+            "price": 71999,
+            "Brand": "OnePlus",
+            "id":2,
+            "category": "Electronics"
+        },
+        {
+            "name": "Apple iPhone 13 Pro Max",
+            "feature": "128 GB - Alpine Green",
+            "img": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/611ovP2GkrL._SX679_.jpg",
+            "price": 120900,
+            "Brand": "Apple",
+            "id":3,
+            "category": "Electronics"
+        },
+        {
+            "name": "Apple iPhone 12",
+            "feature": "128GB - Blue",
+            "img": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71ZOtNdaZCL._SX679_.jpg",
+            "price": 57990,
+            "Brand": "Apple",
+            "id":4,
+            "category": "Electronics"
+        },
+        {
+            "name": "Samsung Galaxy Z Fold4 5G ",
+            "feature": "EPhantom Black, 12GB RAM, 256GB Storage",
+            "img": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61cInRWmClL._SX679_.jpg",
+            "price": 157998,
+            "Brand": "Samsung",
+            "id":5,
+            "category": "Electronics"
+        },
+        {
+            "name": "Apple Watch Series 7 ",
+            "feature": "GPS + Cellular, 41mm - Midnight Aluminium Case with Midnight Sport Band - Regular",
+            "img": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71CrNuzQaHL._SX679_.jpg",
+            "price": 50900,
+            "Brand": "Apple",
+            "id":6,
+            "category": "Electronics"
+        },
+        {
+            "name": "Samsung Galaxy Watch Active",
+            "feature": "40mm, GPS, Bluetooth, Wifi, - Black - US Version with Warranty",
+            "img": "https://images-eu.ssl-images-amazon.com/images/W/WEBP_402378-T2/images/I/31RMexpPDvL._SY300_SX300_QL70_FMwebp_.jpg",
+            "price": 37928,
+            "Brand": "Samsung",
+            "id":7,
+            "category": "Electronics"
+        },
+        {
+            "name": "Apple AirPods Pro",
+            "feature": "2nd Generation - With Wireless Charging Case",
+            "img": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61SUj2aKoEL._SX679_.jpg",
+            "price": 20900,
+            "Brand": "Apple",
+            "id":8,
+            "category": "Electronics"
+        },
+        {
+            "name": "SENNHEISER Momentum 4 Wireless Headphones",
+            "feature": "Bluetooth Headset for Crystal-Clear Calls with Adaptive Noise Cancellation, 60h Battery Life, Black",
+            "img": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/81YRykk5UML._SX679_.jpg",
+            "price": 34990,
+            "Brand": "Sennheiser",
+            "id":9,
+            "category": "Electronics"
+        },
+        {
+            "name": "Microsoft Surface Laptop Studio - 14.4 Inches",
+            "feature": "Touchscreen - Intel® Core™ i7 - 16GB RAM Memory - 512GB SSD - Platinum",
+            "img": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61M1WuTUcUL._SX679_.jpg",
+            "price": 209990,
+            "Brand": "Microdoft",
+            "id":10,
+            "category": "Electronics"
+        },
+        {
+            "name": "Air Jordan 12 Retro",
+            "feature": "Colour Shown: Stealth/Cool Grey/White",
+            "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/9890f9df-78dc-4307-83f5-e7dd738d6460/air-jordan-12-retro-shoe-WwCSBH.png",
+            "price": 18395,
+            "Brand": "Nike",
+            "id":11,
+            "category": "Mens Shoes"
+        },
+        {
+            "name": "Nike Quest 4",
+            "feature": "Men's Road Running Shoes",
+            "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/24329d93-e7fb-4ec9-9f11-f99ee1fd0747/quest-4-road-running-shoes-q5Ffj4.png",
+            "price": 5995,
+            "Brand": "Nike",
+            "id":12,
+            "category": "Mens Shoes"
+        },
+        {
+            "name": "Air Jordan 14 Retro",
+            "feature": "TColour Shown: Light Ginger/White/Black",
+            "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/64ecf1b1-b5d6-4ad9-a781-1590efdf2de3/air-jordan-14-retro-shoes-G7BqkW.png",
+            "price": 18395,
+            "Brand": "Nike",
+            "id":13,
+            "category": "Mens Shoes"
+        },
+        {
+            "name": "Nike Pegasus Turbo Next Nature",
+            "feature": "Men's Road Running Shoes",
+            "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/2f7b9001-f1ba-4eb1-ac78-d41c30a77de1/pegasus-turbo-next-nature-road-running-shoes-MSSVMK.png",
+            "price": 13995,
+            "Brand": "Nike",
+            "id":14,
+            "category": "Mens Shoes"
+        },
+        {
+            "name": "Jumpman Two Trey",
+            "feature": "Colour Shown: White/Black/Dark Concord",
+            "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f0f08080-83c0-4587-8993-1fa3f7638fd7/jumpman-two-trey-shoes-rhmBzG.png",
+            "price": 13995,
+            "Brand": "Nike",
+            "id":15,
+            "category": "Mens Shoes"
+        },
+        {
+            "name": "Nike Dri-FIT ADV Run Division TechKnit",
+            "feature": "Colour Shown: Black/Olive Grey/Rattan",
+            "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/0d9749f0-9042-4415-8615-6c1542812bf2/dri-fit-adv-run-division-techknit-short-sleeve-running-top-qKk7B7.png",
+            "price": 4495,
+            "Brand": "Nike",
+            "id":16,
+            "category": "Clothing"
+        },
+
+        {
+            "name": "Paris Saint-Germain Away",
+            "feature": "Men's Nike Dri-FIT Pre-Match Football Top",
+            "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/72f86e4a-ba15-4656-b4e7-1c99cc4f24c5/paris-saint-germain-away-dri-fit-pre-match-football-top-mM9QMN.png",
+            "price": 3695,
+            "Brand": "Nike",
+            "id":17,
+            "category": "Clothing"
+        },
+        {
+            "name": "Giannis",
+            "feature": "Men's Pullover Basketball Hoodie",
+            "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/8e6aa029-f754-45a1-b5f5-ffe3d33a20ce/giannis-sweatshirt-basketball-hoodie-FkjkWC.png",
+            "price": 4495,
+            "Brand": "Nike",
+            "id":18,
+            "category": "Clothing"
+        },
+
+        {
+            "name": "Kevin Durant Nets",
+            "feature": "Men's Nike Dri-FIT NBA Jersey",
+            "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/a0280ada-a834-48eb-b04c-63bb4b727c15/kevin-durant-nets-dri-fit-nba-jersey-bxJchw.png",
+            "price": 7995,
+            "Brand": "Nike",
+            "id":19,
+            "category": "Clothing"
+        },
+
+        {
+            "name": "levi's  Slim Fit Jeans",
+            "feature": "Dark-Blue in color",
+            "img": "https://assets.ajio.com/medias/sys_master/root/20211103/34kF/61818c9aaeb2690110b75f43/-473Wx593H-441124589-darkblue-MODEL3.jpg",
+            "price": 2799,
+            "Brand": "Levi's",
+            "id":20,
+            "category": "Clothing"
+        },
+
+        {
+            "name": "Checked Slim Fit Shirt with Patch Pocket",
+            "feature": "100% Cotton Mens Shirts",
+            "img": "https://assets.ajio.com/medias/sys_master/root/20220322/RtGw/6238c928aeb26921afe91b3e/-473Wx593H-441132998-navy-MODEL.jpg",
+            "price": 7995,
+            "Brand": "Netplay",
+            "id":21,
+            "category": "Clothing"
+        },
+
+        {
+            "name": "Levi's Skinny Jeans",
+            "feature": "Dark-Blue in color",
+            "img": "https://assets.ajio.com/medias/sys_master/root/20211103/yFfK/6181a9bcf997ddf8f1f8934c/-473Wx593H-441125920-darkblue-MODEL.jpg",
+            "price": 2479,
+            "Brand": "Levi's",
+            "id":22,
+            "category": "Clothing"
+        },
+
+        {
+            "name": "Slim Fit Shirt with Spread Collar",
+            "feature": "Black Shirt Made by 100& Cotton fabric",
+            "img": "https://assets.ajio.com/medias/sys_master/root/20210420/UCLg/607ecc69aeb269a9e3972138/-473Wx593H-462323964-black-MODEL.jpg",
+            "price": 1199,
+            "Brand": "Netplay",
+            "id":23,
+            "category": "Clothing"
+        },
+        {
+            "name": "Cropped Fit Ankle-Length Jeans",
+            "feature": "Navy Color",
+            "img": "https://assets.ajio.com/medias/sys_master/root/20220614/pqPW/62a78aa8aeb26921af1fecc9/-473Wx593H-441145402-navy-MODEL4.jpg",
+            "price": 3499,
+            "Brand": "John Player",
+            "id":24,
+            "category": "Clothing"
+        },
+
+        {
+            "name": "CLARA 925 Sterling Silver Sky Blue Eye Pendant Earring Chain Jewellery Set",
+            "feature": "Rhodium Plated, Swiss Zirconia | Gift for Women & Girls",
+            "img": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51U-wYljJiL._UY625_.jpg",
+            "price": 4269,
+            "Brand": "Clara",
+            "id":25,
+            "category": "Jewellery"
+        },
+        {
+            "name": "Clara 92.5 Sterling Silver Heart Solitaire Pendant Earring Jewellery Set",
+            "feature": "18 inches Long 92.5 % Pure Sterling Silver Chain provided Free with this Pendant",
+            "img": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61OW2cuZwHL._UX695_.jpg",
+            "price": 2654,
+            "Brand": "Clara",
+            "id":26,
+            "category": "Jewellery"
+        },
+        {
+            "name": "GIVA 925 Sterling Silver Classic Zircon Set With Necklace & Earrings",
+            "feature": "18 inches Long 92.5 % Pure Sterling Silver Chain provided Free with this Pendant",
+            "img": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61CXIFnLGSL._UY695_.jpg",
+            "price": 2654,
+            "Brand": "Giva",
+            "id":27,
+            "category": "Jewellery"
+        },
+        {
+            "name": "GIVA 925 Sterling Silver Heartlock Bracelet, Adjustable",
+            "feature": "The AAA+ Zircon embellished bracelet is made up of 925 sterling silver with stamp",
+            "img": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/617MBdR-KiL._UY695_.jpg",
+            "price": 3035,
+            "Brand": "Giva",
+            "id":28,
+            "category": "Jewellery"
+        },
+        {
+            "name": "Malabar Gold & Diamonds 22k (916) Yellow Gold Clip-On Earrings for Girls",
+            "feature": "This clip-on earrings is made of 22k (916) yellow gold, BIS hallmarked",
+            "img": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61uasBO0O2L._UY695_.jpg",
+            "price": 7639,
+            "Brand": "Malabar",
+            "id":29,
+            "category": "Jewellery"
+        },
+        {
+            "name": "Joyalukkas 22k (916) Yellow Gold Stud Earrings for Girls",
+            "feature": "Made of up 22KT Yellow Gold",
+            "img": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71-33qxwz9L._UY695_.jpg",
+            "price": 10906,
+            "Brand": "Joyalukkas",
+            "id":30,
+            "category": "Jewellery"
+        }
+    ]
+}
+

@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "title": "Learn Backtracking",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Learn DSA",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Learn React",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Study useEffect",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Practise useEffect",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "practise Recursion",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Prepare for evaluation",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Cricketer",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Practise for Cricket before the Actual Match",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "Leran techniques of Straight Drive",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "Learn Recursion",
+      "status": false,
+      "id": 11
+    },
+    {
+      "title": "",
+      "status": false,
+      "id": 12
+    }
+  ]
+}

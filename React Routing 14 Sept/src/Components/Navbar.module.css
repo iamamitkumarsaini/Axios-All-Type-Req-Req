@@ -1,0 +1,21 @@
+.active {
+    text-decoration: none;
+    color: peru;
+}
+
+.default{
+    text-decoration: none;
+    color: blue;
+}
+
+.navbar{
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 22px 8px;
+    position: sticky;
+    top: 0;
+    z-index: 4;
+    background-color: white;
+}

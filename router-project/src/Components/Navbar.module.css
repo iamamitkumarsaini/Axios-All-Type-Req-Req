@@ -1,0 +1,134 @@
+.active{
+    text-decoration: none;
+    color: goldenrod;
+}
+
+.default{
+    text-decoration: none;
+    color: blue;
+}
+
+.Navbar{
+    display: flex;
+    justify-content: space-around;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 18px;
+    position: sticky;
+    z-index: 4;
+    top: 0;
+    background-color: white;
+}
+
+.Footer{
+    display: flex;
+    margin: auto;
+    background-color: #232F3E;
+    gap: 30px;
+    color: white;
+    justify-content: space-around;
+    font-size: 16px;
+}
+
+.Footer>div{
+    margin-bottom: 40px;
+}
+
+.Footer>div>a{
+    color: white;
+    text-decoration: none;
+}
+
+.Footer>div>p:hover{
+    cursor: pointer;
+}
+
+.loginBtn{
+    margin-bottom: 60px;
+    margin-top: 20px;
+    padding: 12px 24px;
+    font-size: 24px;
+    background-color: darkcyan;
+    color: white;
+    border: none;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.headline{
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    margin-top: 20px;
+    position: sticky;
+    background-color: white;
+    z-index: 4;
+    top: 60px;
+}
+
+.Productpage{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    width: 90%;
+}
+
+.logoutBtn{
+    display: flex;
+    align-items: center;
+}
+
+.logoutBtn>button{
+    padding: 12px;
+    font-size: 21px;
+    background-color: peru;
+    color: white;
+    border: none;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.Prodcontainer{
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 25px;
+    margin:50px auto;
+    text-align: center;
+}
+
+.Prodcontainer>div{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.Prodcontainer>div>div:first-child>img{
+  width: 100%;
+  margin-top: 30px;
+}
+
+.Prodcontainer>div>div:last-child{
+    padding-bottom: 35px;
+}
+
+.Prodcontainer>div>div:last-child>button{
+   padding: 12px 21px;
+}
+
+.buttons{
+    text-align: center;
+    margin: 80px auto;
+}
+
+.buttons>button{
+    padding: 12px 24px;
+    font-size: 21px;
+}
+
+.single{
+    width: 50%;
+    margin: 50px auto;
+    text-align: center;
+    line-height: 18px;
+}
+
+.card:hover{
+    cursor: pointer;
+}

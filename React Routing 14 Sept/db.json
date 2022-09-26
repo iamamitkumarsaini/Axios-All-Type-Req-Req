@@ -1,0 +1,89 @@
+{
+    "data": [
+        {
+            "category" : "SmartPhones",
+            "name":"Apple iPhone 14",
+            "price": 129999,
+            "id" : 0,
+            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662703541/Croma%20Assets/Communication/Mobiles/Images/261930_q0hq3w.png/mxw_2048,f_auto"
+        },
+        {
+            "category" : "Watches",
+            "name": "Apple Watch ",
+            "price" : 54499,
+            "id" : 1,
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-ultra-202209?wid=340&hei=264&fmt=png-alpha&.v=1661646872279"
+        },
+        {
+            "category" : "Shirts",
+            "name": "Zara Checks Shirts for Mens Full Sleves ",
+            "price" : 1999,
+            "id" : 2,
+            "image": "https://tiimg.tistatic.com/fp/1/007/422/100-cotton-printed-casual-wear-long-sleeves-maroon-color-mens-shirts-076-w410.jpg"
+        },
+        {
+            "category" : "Pants",
+            "name": " Peter England Mens Jeans Pants in Navy Blue ",
+            "price" : 3000,
+            "id" : 3,
+            "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/6832333/2018/9/14/f0e3a9a6-b1d3-426e-9f5c-0350699140c41536926290358-WROGN-Men-Blue-Slim-Fit-Mid-Rise-Clean-Look-Stretchable-Jean-1.jpg"
+        },
+        {
+            "category" : "T-Shirts",
+            "name": "Mango Black T-shirt for Mens Half Sleves ",
+            "price" : 1199,
+            "id" : 4,
+            "image": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2016/12/7027f088-902d-404b-a442-15d55cb36f17-e1513640648577.jpg?auto=format&q=60&fit=max&w=930"
+        },
+
+        {
+            "category" : "Laptops",
+            "name": "Apple Macbook Pro ",
+            "price" : 170000,
+            "id" : 5,
+            "image" : "https://www.apple.com/v/macbook-pro-14-and-16/b/images/overview/hero/hero_intro_endframe__e6khcva4hkeq_large.jpg"
+        },
+        {
+            "category" : "Headphones",
+            "name": "Apple Bluetooth Headphones in White",
+            "price" : 25999,
+            "id" : 6,
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/og-airpods-max-202011?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1603996970000"
+        },
+        {
+            "category" : "Ear-Buds",
+            "name": "Apple Wireless Ear-Buds in White",
+            "price" : 18500,
+            "id" : 7,
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MME73?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1632861342000"
+        },
+        {
+            "category" : "NoteBooks",
+            "name": "classmate Note Book",
+            "price" : 90,
+            "id" : 8,
+            "image": "https://m.media-amazon.com/images/I/61NUA0O7WTL._SL1100_.jpg"
+        },
+        {
+            "category" : "Books",
+            "name": "Shrimad Bhagwat Geeta",
+            "price" : 699,
+            "id" : 9,
+            "image": "https://www.brahmakumaris.com/wp-content/uploads/2022/05/Bhagwad-Geeta-Cover.webp"
+        },
+        {
+            "category" : "Televisons",
+            "name": "Samsung QLED 85 Inches",
+            "price" : 110999,
+            "id" : 10,
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/in/qa85qn900akxxl/gallery/in-neo-qled-8k-qn900a-qa85qn900akxxl-426823789?$684_547_PNG$"
+        },
+        {
+            "category" : "Gaming Console",
+            "name": "PlayStation 5, Play Now",
+            "price" : 52999,
+            "id" : 11,
+            "image": "https://images.indianexpress.com/2020/10/PS5-FB.jpg"
+        }
+]
+}
